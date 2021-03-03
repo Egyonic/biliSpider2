@@ -1,0 +1,11 @@
+GET /link_draw/v1/doc/doc_list?uid=1975826&page_num=0&page_size=30&biz=all HTTP/2
+Host: api.vc.bilibili.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0
+Accept: application/json, text/plain, */*
+Accept-Language: zh-CN,en-US;q=0.8,zh;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Origin: https://space.bilibili.com
+Connection: keep-alive
+Referer: https://space.bilibili.com/1975826/album
+Cookie: l=v; _uuid=3F201C0A-2A35-BB9C-CD10-A3BA67792FF431208infoc; buvid3=0C5E1447-AF8B-41EB-8AB7-B50DE1AD7E4370378infoc; PVID=1; sid=m5mkk98n; CURRENT_FNVAL=80; rpdid=|(u)~m~llR~Y0J'ulmRRJYk|m; bp_video_offset_8583228=477746396499671921; bp_t_offset_8583228=477902106249238060; fingerprint=7189169a9159e87320a1df6b914a6b5d; buvid_fp=0C5E1447-AF8B-41EB-8AB7-B50DE1AD7E4370378infoc; buvid_fp_plain=0C5E1447-AF8B-41EB-8AB7-B50DE1AD7E4370378infoc; DedeUserID=8583228; DedeUserID__ckMd5=046ffac17ddebb99; SESSDATA=9b7b3aa6%2C1625624661%2Cde95f*11; bili_jct=a9e85726a80634d152b43813086d954b; blackside_state=1; LIVE_BUVID=AUTO4516100910828931
+TE: Trailers
